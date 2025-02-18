@@ -2,7 +2,7 @@
 resources: 
 - deployment.yaml
 - service.yaml
-- pod.yaml
+# - pod.yaml
 
 commonLabels:
   app: mykustomapp
