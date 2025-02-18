@@ -13,7 +13,7 @@ namePrefix:
   kustom-
 
 nameSuffix:
-  -v2
+  -v3
 
 configMapGenerator:
 - name: mykustom-map
