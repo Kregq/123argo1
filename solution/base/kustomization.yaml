@@ -5,7 +5,7 @@ resources:
 - pod.yaml
 
 commonLabels:
-  app: mykustomapp
+  app: moja
 
 commonAnnotations:
   app: mykustom-annontations
