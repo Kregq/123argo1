@@ -11,7 +11,7 @@ commonAnnotations:
   app: mykustom-annontations
 
 namePrefix:
-  kustom-
+  kustom-apka
 
 nameSuffix:
   -v2
