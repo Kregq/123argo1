@@ -5,7 +5,7 @@ resources:
 - pod.yaml
 
 commonLabels:
-  app: moja
+  app: twoja
 
 commonAnnotations:
   app: mykustom-annontations
